@@ -1,0 +1,24 @@
+{
+  "name": "study-koa",
+  "version": "1.0.0",
+  "description": "learn koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeassAthena/study-koa.git"
+  },
+  "author": "bing.ma",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "2.0.0",
+    "koa-router": "7.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/GeassAthena/study-koa/issues"
+  },
+  "homepage": "https://github.com/GeassAthena/study-koa#readme"
+}
